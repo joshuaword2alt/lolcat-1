@@ -50,7 +50,7 @@ $ make && sudo make install
 
 ## Why?
 
-This `lolcat` clone is an attempt to reduce the world's carbon dioxide emissions by optimizing inefficient code. It's >10x as fast and <0.1% as large as the original one.
+This `lolcat` clone is an attempt to reduce the world's carbon dioxide emissions by optimizing inefficient code. It's >10x as fast and <0.1% as large as the original like this one [asciitracing](https://github.com/a1k0n/asciitracing).
 
 ```bash
 newton~/d/lolcat <3 dmesg>foo
